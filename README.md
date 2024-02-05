@@ -1,6 +1,6 @@
 ## Capstone-Assignment_1
 # YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
-
+# LinkedIn Link: https://www.linkedin.com/in/nithyalakshmi-p-a3a191217
 This project aims to create a comprehensive YouTube data analytics platform by harnessing the power of SQL, MongoDB, and Streamlit. The entire process involves legitimate data harvesting through the YouTube API, meticulous data warehousing using SQL and NoSQL databases, and the development of an interactive web-based dashboard for insightful analysis.
 
 1.YouTube API Access:
